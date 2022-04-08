@@ -2,7 +2,7 @@
 
 ## About
 
-* 回路連合のwiki
+* [回路連合]()のwiki
 * [語録](/words.md)
 
 ## Author
