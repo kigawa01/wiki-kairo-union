@@ -4,7 +4,7 @@
 
 * [回路連合]()のwiki
 
-
+## Index
 * [語録](/words.md)
 
 ## Author
