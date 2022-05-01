@@ -5,7 +5,8 @@
 * [回路連合]()のwiki
 
 ## Index
-* [語録](/words.md)
+* [回連語録](./kairo-words/README.md)
+* [模擬戦用語](./mogi-words/README.md)
 
 ## Author
 
